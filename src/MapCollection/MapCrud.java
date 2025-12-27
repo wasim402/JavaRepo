@@ -27,7 +27,6 @@ public class MapCrud {
             else {
                 System.out.println("Tera to ab kada hone laga hoga "+ key);
             }
-
         }
         System.out.println("latest londiyabaz list");
         System.out.println(map1);
