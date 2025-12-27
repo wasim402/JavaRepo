@@ -9,7 +9,6 @@ public class CountAccuranceUsingMap {
 
         String s = "wassimm";
         Map<Character,Integer> map = new HashMap();
-//            char[] ch =s.toCharArray();
         for (int i = 0; i <s.length() ; i++) {
             char c=s.charAt(i);
             if (map.containsKey(c)){
