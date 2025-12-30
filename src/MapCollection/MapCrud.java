@@ -3,8 +3,6 @@ package MapCollection;
 import java.util.HashMap;
 import java.util.Map;
 
-import static javax.swing.UIManager.put;
-
 public class MapCrud {
 
     static void main(String[] args) {
